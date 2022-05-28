@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/bin/Debug/net6.0/task034_theNumberOfEven
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/bin/Debug/net6.0/task034_theNumberOfEven.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/bin/Debug/net6.0/task034_theNumberOfEven.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/bin/Debug/net6.0/task034_theNumberOfEven.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/bin/Debug/net6.0/task034_theNumberOfEven.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/refint/task034_theNumberOfEven.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/task034_theNumberOfEven.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task034_theNumberOfEven/obj/Debug/net6.0/ref/task034_theNumberOfEven.dll
