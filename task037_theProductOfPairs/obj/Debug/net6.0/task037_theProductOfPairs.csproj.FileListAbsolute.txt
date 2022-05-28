@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/bin/Debug/net6.0/task037_theProductOfPairs
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/bin/Debug/net6.0/task037_theProductOfPairs.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/bin/Debug/net6.0/task037_theProductOfPairs.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/bin/Debug/net6.0/task037_theProductOfPairs.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/bin/Debug/net6.0/task037_theProductOfPairs.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/refint/task037_theProductOfPairs.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/task037_theProductOfPairs.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task037_theProductOfPairs/obj/Debug/net6.0/ref/task037_theProductOfPairs.dll
