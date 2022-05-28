@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/bin/Debug/net6.0/task038_theDifferenceBetweenMaxMin
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/bin/Debug/net6.0/task038_theDifferenceBetweenMaxMin.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/bin/Debug/net6.0/task038_theDifferenceBetweenMaxMin.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/bin/Debug/net6.0/task038_theDifferenceBetweenMaxMin.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/bin/Debug/net6.0/task038_theDifferenceBetweenMaxMin.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/refint/task038_theDifferenceBetweenMaxMin.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/task038_theDifferenceBetweenMaxMin.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task038_theDifferenceBetweenMaxMin/obj/Debug/net6.0/ref/task038_theDifferenceBetweenMaxMin.dll
