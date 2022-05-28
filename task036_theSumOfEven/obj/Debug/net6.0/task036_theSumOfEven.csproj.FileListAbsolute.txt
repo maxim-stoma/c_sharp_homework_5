@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/bin/Debug/net6.0/task036_theSumOfEven
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/bin/Debug/net6.0/task036_theSumOfEven.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/bin/Debug/net6.0/task036_theSumOfEven.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/bin/Debug/net6.0/task036_theSumOfEven.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/bin/Debug/net6.0/task036_theSumOfEven.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/refint/task036_theSumOfEven.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/task036_theSumOfEven.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_4/task036_theSumOfEven/obj/Debug/net6.0/ref/task036_theSumOfEven.dll

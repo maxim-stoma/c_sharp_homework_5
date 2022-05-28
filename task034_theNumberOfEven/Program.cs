@@ -1,9 +1,6 @@
 ﻿void SetArray(int[] variety)
 {
-    int length = variety.Length;
-    int index = 0;
-
-    for (index = 0; index < length; index++)
+    for (int index = 0; index < variety.Length; index++)
     {
         variety[index] = new Random().Next(100, 1000); // [100, 1000)
     }
@@ -11,14 +8,11 @@
 
 void PrintArray(int[] multitude)
 {
-    int dimention = multitude.Length;
-    int pos = 0;
-
     Console.Write("[ ");
-    for (pos = 0; pos < dimention; pos++)
+    for (int pos = 0; pos < multitude.Length; pos++)
     {
         Console.Write(multitude[pos]);
-        if (pos != dimention - 1)
+        if (pos != multitude.Length - 1)
         {
             Console.Write(", ");
         }
@@ -41,7 +35,7 @@ void ParityElements(int[] pile)
             count++;
         }
     }
-    Console.WriteLine($"Итак, количество чётных чисел равно {count}");
+    Console.WriteLine($"Итак, количество чётных чисел равно {count}. ");
 }
 
 Console.Write("Введи размер массива: ");
